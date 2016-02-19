@@ -1,0 +1,25 @@
+{
+  "name": "js-bytes-converter",
+  "homepage": "https://github.com/dleo/js-bytes-converter",
+  "authors": [
+    "David Lopez <dleo.lopez@gmail.com>"
+  ],
+  "description": "JavaScript Bytes Converter",
+  "main": "js-bytes-converter.js",
+  "moduleType": [],
+  "keywords": [
+    "javascript",
+    "calc",
+    "converter",
+    "bytes",
+    "megabytes"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
